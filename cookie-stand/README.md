@@ -1,2 +1,2 @@
-# user admin
-# password 1234
+# user: admin
+# password :1234
